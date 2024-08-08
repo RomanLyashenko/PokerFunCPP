@@ -1,3 +1,0 @@
-C:\Users\Admin\Desktop\footballManagerConsole\poker\x64\Debug\poker.exe
-C:\Users\Admin\Desktop\footballManagerConsole\pokerFuncCpp\x64\Debug\poker.exe
-C:\Users\Admin\Desktop\pokerFuncCpp\x64\Debug\poker.exe
